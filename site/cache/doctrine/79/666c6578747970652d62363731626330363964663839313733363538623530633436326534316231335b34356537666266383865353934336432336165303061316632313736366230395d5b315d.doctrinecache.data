@@ -1,0 +1,36 @@
+1553538428
+a:8:{s:5:"title";s:30:"You've just been friendzoned !";s:8:"template";s:3:"wtf";s:8:"fieldset";s:3:"wtf";s:4:"date";s:25:"December 26 2018 10:26:04";s:3:"url";s:29:"http://localhost/flextype/wtf";s:4:"slug";s:3:"wtf";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:1326:"
+
+<div class="container">
+    <div class="center-align margin-top-lg margin-bottom-lg">
+        <div
+            class="tenor-gif-embed border"
+            data-postid="4780238"
+            data-share-method="host"
+            data-width="50%"
+            data-aspect-ratio="1.398876404494382"
+        >
+            <a
+                href="https://tenor.com/view/star-trek-william-shatner-james-kirk-slap-slapping-gif-4780238"
+                >Star Trek William Shatner GIF</a
+            >
+            --> from
+            <a href="https://tenor.com/search/startrek-gifs">Startrek GIFs</a>
+        </div>
+    </div>
+    <h2 class="margin-bottom-sm">Now how do you feel ?</h2>
+    <p>Pathetic, right ?<br />No big deal dude ! Happens all the time...</p>
+    <section class="mx-auto">
+        <p>Now here's why you feel that way :</p>
+        <blockquote>
+            Breakups activate the area of your brain that processes
+            <span class="ellipse">craving and addiction</span>.
+        </blockquote>
+        <p>But the good news is :</p>
+        <blockquote>
+            The pain can be relentless but eventually the body chemistry will
+            change back to normal and the hurt will
+            <span class="ellipse">diminish</span>.
+        </blockquote>
+    </section>
+</div>";}

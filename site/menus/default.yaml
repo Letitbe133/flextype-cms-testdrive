@@ -1,0 +1,14 @@
+title: Default
+items:
+  home:
+    title: 'HOME'
+    url: 'home'
+    order: 1
+  blog:
+    title: 'Blog'
+    url: 'blog'
+    order: 3
+  about:
+    title: 'WTF !'
+    url: 'wtf'
+    order: 2

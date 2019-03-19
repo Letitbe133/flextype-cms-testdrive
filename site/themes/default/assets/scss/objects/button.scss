@@ -1,0 +1,17 @@
+.header-wrapper a {
+    border: 1px solid $white;
+    padding: .75rem 1rem;
+    border-radius: 2px;
+    transition: color 250ms ease, background-color 250ms ease;
+
+    @media screen and (max-width: 600px) {
+        font-size: 16px;
+        padding: 0.5rem .75rem;
+    }
+}
+
+.header-wrapper a:hover {
+    text-decoration: none;
+    color: $black;
+    background-color: $white;
+}

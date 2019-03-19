@@ -1,0 +1,81 @@
+//
+// Main
+//
+body,
+html {
+    font-family: $base-font-family;
+    font-size: $base-font-size;
+
+    height: 100vh;
+
+    color: white;
+    background: black;
+    box-sizing: border-box;
+}
+
+body,
+button,
+input,
+p,
+select,
+textarea {
+    font-family: $base-font-family;
+    font-weight: 400;
+    color: white;
+}
+
+img {
+    max-width: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+
+    &:hover {
+        text-decoration: underline;
+        color: white;
+    }
+}
+
+body,
+p {
+    line-height: $base-line-height;
+}
+
+pre {
+    background: #f0f0f0;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 80px;
+
+    @media screen and (max-width: 600px) {
+        font-size: 40px;
+    }
+}
+
+h2 {
+    @media screen and (max-width: 600px) {
+        font-size: 25px;
+    }
+}
+
+blockquote {
+    font-size: 18px;
+
+    &:before {
+        content: open-quote;
+        font-size: 40px;
+    }
+
+    &:after {
+        content: close-quote;
+        font-size: 40px;
+    }
+}
+
+ul {
+    list-style: none;
+}

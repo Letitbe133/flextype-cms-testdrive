@@ -1,0 +1,5 @@
+username: lionel
+hashed_password: $2y$10$gOAN6fGcgMvbvwKpyRyOnun2zNn8h8kPo2E9Inxu0Y8lv2Np8qGEu
+email: lionel.lft@me.com
+role: admin
+state: enabled

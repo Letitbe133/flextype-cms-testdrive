@@ -1,0 +1,20 @@
+1553494976
+a:9:{s:5:"title";s:6:"F*ck !";s:5:"image";s:9:"lilia.jpg";s:8:"template";s:5:"about";s:8:"fieldset";s:5:"about";s:4:"date";s:25:"December 26 2018 10:26:04";s:3:"url";s:31:"http://localhost/flextype/about";s:4:"slug";s:5:"about";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:588:"
+
+<p>welcome to your purgatory</p>
+<h2>Just to remind you...</h2>
+<div style="width:100%;height:0;padding-bottom:63%;position:relative;">
+    <!-- <iframe
+        src="https://giphy.com/embed/Okk9cb1dvtMxq"
+        width="100%"
+        height="100%"
+        style="position:absolute"
+        frameBorder="0"
+        class="giphy-embed"
+        allowFullScreen
+    ></iframe> -->
+    <picture>
+        <img src="https://tenor.com/view/star-trek-william-shatner-james-kirk-slap-slapping-gif-4780238" alt="Captain Kirk">
+      </picture> 
+</div>
+<h2>You're an asshole !</h2>";}

@@ -1,0 +1,15 @@
+1553495381
+a:3:{i:0;a:9:{s:5:"title";s:30:"You've just been friendzoned !";s:5:"image";s:9:"lilia.jpg";s:8:"template";s:5:"about";s:8:"fieldset";s:5:"about";s:4:"date";s:25:"December 26 2018 10:26:04";s:3:"url";s:31:"http://localhost/flextype/about";s:4:"slug";s:5:"about";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:482:"
+
+<h2>Just to remind you...</h2>
+<div class="tenor-gif-embed" data-postid="4780238" data-share-method="host" data-width="50%" data-aspect-ratio="1.398876404494382"><a href="https://tenor.com/view/star-trek-william-shatner-james-kirk-slap-slapping-gif-4780238">Star Trek William Shatner GIF</a> from <a href="https://tenor.com/search/startrek-gifs">Startrek GIFs</a></div><script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<h2>You're an asshole !</h2>";}i:1;a:8:{s:5:"title";s:4:"Blog";s:8:"template";s:4:"blog";s:8:"fieldset";s:4:"blog";s:4:"date";s:25:"December 25 2018 22:27:15";s:3:"url";s:30:"http://localhost/flextype/blog";s:4:"slug";s:4:"blog";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:0:"";}i:2;a:9:{s:5:"title";s:4:"Home";s:8:"template";s:4:"home";s:10:"visibility";s:7:"visible";s:4:"date";s:25:"December 25 2018 23:46:58";s:8:"fieldset";s:7:"default";s:3:"url";s:30:"http://localhost/flextype/home";s:4:"slug";s:4:"home";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:271:"
+
+<div class="header-wrapper">
+    <h1 style="text-align: center;">
+        <span class="strike">Welcome</span> to the FriendZone !
+    </h1>
+    <p style="text-align: center;" class="lead">
+        <a href="./about">Enter at your own risks...</a>
+    </p>
+</div>";}}

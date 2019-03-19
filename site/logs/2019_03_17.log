@@ -1,0 +1,5 @@
+[17-Mar-2019 15:55:40] ParseError: syntax error, unexpected '?>', expecting ',' or ')' in /var/www/html/flextype/site/themes/default/views/templates/home.php at line 4
+[17-Mar-2019 20:19:28] ParseError: syntax error, unexpected 'Event' (T_STRING) in /var/www/html/flextype/site/plugins/admin/admin.php at line 46
+[17-Mar-2019 20:19:40] ParseError: syntax error, unexpected 'Event' (T_STRING) in /var/www/html/flextype/site/plugins/admin/admin.php at line 46
+[17-Mar-2019 21:01:24] ErrorException: Notice: Undefined index: image in /var/www/html/flextype/site/themes/default/views/templates/about.php at line 5
+[17-Mar-2019 21:04:00] Intervention\Image\Exception\NotReadableException: Unsupported image type. GD driver is only able to decode JPG, PNG, GIF or WebP files. in /var/www/html/flextype/vendor/intervention/image/src/Intervention/Image/Gd/Decoder.php at line 57

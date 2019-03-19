@@ -1,0 +1,2 @@
+[19-Mar-2019 08:32:37] ParseError: syntax error, unexpected ';', expecting ',' or ')' in /var/www/html/flextype/site/themes/default/views/templates/wtf.php at line 10
+[19-Mar-2019 08:33:58] ArgumentCountError: Too few arguments to function Flextype\Images::getImageUrl(), 1 passed in /var/www/html/flextype/site/themes/default/views/templates/wtf.php on line 10 and exactly 2 expected in /var/www/html/flextype/flextype/Images.php at line 219

@@ -1,0 +1,5 @@
+[18-Mar-2019 06:28:19] ErrorException: Notice: Undefined index: image in /var/www/html/flextype/site/themes/default/views/templates/about.php at line 5
+[18-Mar-2019 06:41:02] RuntimeException: Flextype\Component\View\View::__construct(): The '/var/www/html/flextype/site/plugins/templates/about' view does not exist. in /var/www/html/flextype/vendor/flextype-components/view/View.php at line 74
+[18-Mar-2019 06:48:58] ErrorException: Notice: Undefined index: image in /var/www/html/flextype/site/themes/default/views/templates/wtf.php at line 6
+[18-Mar-2019 06:50:01] ErrorException: Notice: Undefined index: image in /var/www/html/flextype/site/themes/default/views/templates/wtf.php at line 6
+[18-Mar-2019 06:50:09] ErrorException: Notice: Undefined index: image in /var/www/html/flextype/site/themes/default/views/templates/wtf.php at line 6
