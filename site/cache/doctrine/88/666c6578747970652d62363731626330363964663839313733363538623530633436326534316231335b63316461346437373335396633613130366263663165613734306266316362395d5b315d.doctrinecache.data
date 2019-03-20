@@ -1,0 +1,26 @@
+1553677950
+a:9:{s:5:"title";s:7:"Sources";s:8:"template";s:7:"default";s:10:"visibility";s:7:"visible";s:4:"date";s:22:"March 20 2019 09:51:42";s:8:"fieldset";s:7:"default";s:3:"url";s:33:"http://localhost/flextype/sources";s:4:"slug";s:7:"sources";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:840:"
+<h1>Wanna know more about it ?</h1>
+<div>
+    <p>Check the resources down there</p>
+</div>
+<ul class="facts">
+    <li>
+        <p class="facts-title">
+            Your Body During a Breakup
+        </p>
+        <p>
+            <a href="https://www.heysigmund.com/your-body-during-a-breakup/"
+                >An article by Karen Young</a
+            >
+        </p>
+        <p>Hosted by <a href="https://www.heysigmund.com/">Hey Sigmund</a></p>
+    </li>
+    <li>
+        <p class="facts-title">Social rejection shares somatosensory representations with physical pain</p>
+        <p>
+            <a href="https://www.pnas.org/content/108/15/6270">As study by Ethan Kross, Marc G. Berman, Walter Mischel, Edward E. Smith, and Tor D. Wager</a>
+            <p>Hosted by <a href="https://www.pnas.org/">PNAS</a></p>
+        </p>
+    </li>
+</ul>";}

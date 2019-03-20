@@ -18,7 +18,3 @@ fields:
     title: admin_date
     type: text
     size: col-4
-  test:
-    title: "Hello world !"
-    type: text
-    size: col-4

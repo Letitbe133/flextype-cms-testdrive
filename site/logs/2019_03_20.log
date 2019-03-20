@@ -1,0 +1,3 @@
+[20-Mar-2019 08:53:44] ErrorException: Notice: Undefined index: url in /var/www/html/flextype/site/themes/default/views/partials/navigation.php at line 13
+[20-Mar-2019 08:55:36] ErrorException: Notice: Undefined index: url in /var/www/html/flextype/site/themes/default/views/partials/navigation.php at line 13
+[20-Mar-2019 08:57:22] ErrorException: Notice: Undefined index: url in /var/www/html/flextype/site/themes/default/views/partials/navigation.php at line 13

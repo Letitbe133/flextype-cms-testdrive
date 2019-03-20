@@ -1,11 +1,5 @@
----
-title: "You've just been friendzoned !"
-template: wtf
-fieldset: wtf
-date: "December 26 2018 10:26:04"
-image: beer.jpeg
----
-
+1553602054
+a:9:{s:5:"title";s:30:"You've just been friendzoned !";s:8:"template";s:3:"wtf";s:8:"fieldset";s:3:"wtf";s:4:"date";s:25:"December 26 2018 10:26:04";s:5:"image";s:9:"beer.jpeg";s:3:"url";s:29:"http://localhost/flextype/wtf";s:4:"slug";s:3:"wtf";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:6719:"
 <div class="container">
     <div class="center-align margin-top-lg margin-bottom-lg">
         <p
@@ -25,9 +19,9 @@ image: beer.jpeg
     </div>
     <div class="row margin-bottom-lg">
         <div class="col-12">
-            <p class="margin-bottom-sm h2">
+            <h2 class="margin-bottom-sm">
                 Now how do you feel ?
-            </p>
+            </h2>
             <p>
                 Pathetic, right ?
                 <br />
@@ -40,122 +34,44 @@ image: beer.jpeg
             <h3 class="margin-bottom-sm">
                 Now here's why you feel that way :
             </h3>
-            <blockquote class="text-center">
-                <p>
-                    Breakups activate the area of your brain that processes
-                    <span class="ellipse">craving and addiction</span>.
-                </p>
+            <blockquote
+                class="text-center"
+            >
+                Breakups activate the area of your brain that processes
+                <span class="ellipse">craving and addiction</span>.
                 <footer class="blockquote-footer">
-                    Karen Young in
-                    <cite
-                        title="https://www.heysigmund.com/your-body-during-a-breakup/"
-                        >Hey Sigmund</cite
-                    >
+                    Karen Young in 
+                    <cite title="https://www.heysigmund.com/your-body-during-a-breakup/">Hey Sigmund</cite>
                 </footer>
             </blockquote>
             <h3 class="margin-bottom-sm">
                 But the good news is :
             </h3>
-            <blockquote class="text-center">
-                <p>
-                    The pain can be relentless but eventually the body chemistry
-                    will change back to normal and the hurt will
-                    <span class="ellipse">diminish</span>.
-                </p>
-                <footer class="blockquote-footer">
-                    Karen Young in
-                    <cite
-                        title="https://www.heysigmund.com/your-body-during-a-breakup/"
-                        >Hey Sigmund</cite
-                    >
-                </footer>
+            <blockquote
+                cite="https://www.heysigmund.com/your-body-during-a-breakup/"
+                class="text-center"
+            >
+                The pain can be relentless but eventually the body chemistry
+                will change back to normal and the hurt will
+                <span class="ellipse">diminish</span>.
             </blockquote>
         </div>
     </section>
     <section class="row margin-bottom-lg">
         <div class="col-12">
-            <p class="h2">
+            <h3>
                 Some facts :
-            </p>
-            <ul class="facts">
-                <li>
-                    <p class="facts-title">Wayback machine</p>
-                    1994 is the year the term "friendzone" was first used in
-                    medias.<br />
-                    It happened in the episode "The One With The Blackout" of
-                    the "<a
-                        href="https://en.wikipedia.org/wiki/Friends"
-                        target="_blank"
-                        >Friends</a
-                    >
-                    " sitcom. You can have a look
-                    <a
-                        href="https://www.dailymotion.com/video/x4pvjc3"
-                        target="_blank"
-                        >there</a
-                    >. <br />
-                    Long story short, Chandler has a crush on Rachel and he'se
-                    pretty damn sure she does too coz he "read the signs". Poor
-                    little one... <br />
-                    The term was then entered in the
-                    <a
-                        href="https://www.urbandictionary.com/define.php?term=Friendzone"
-                        >Urban Dictionnary</a
-                    >
-                    in 2003 for all of us to use (or not).
-                </li>
-                <li>
-                    <p class="facts-title">Is friendzone permanent ?</p>
-                    I'm afraid yes dude. Let's be honest there : do not expect
-                    any turning back. <br />
-                    Don't wanna be the pathetic asshole filled with anger and
-                    frustration, right ?
-                </li>
-                <li>
-                    <p class="facts-title">Are you a victim ?</p>
-                    Well surely enough not. Your ending here is your fault !
-                    Like Chandler you misread the signs. <br />
-                    You're not being rejected dude, you're just not the right
-                    fit. So stop whining. NOW !
-                </li>
-                <li>
-                    <p class="facts-title">What about hope ? <br /></p>
-                    FORGET IT ! Hope is your best ennemy. Really think that
-                    playing the best-friend-always-ther-to-help-and-to-care will
-                    end up in your pseudo-relation turning from a fiasco to a
-                    love story ? Really ? Now wake up dude : THAT IS NOT GOING
-                    TO HAPPEN. NEVER. <br />
-                    The sooner you swallow the pill, the sooner you are
-                    relieved, listen to the doctor.
-                </li>
-                <li>
-                    <p class="facts-title">Frustration... This one I love !</p>
-                    Well of course you're frustrated ! How can the one you love
-                    (or think you love) can close the door on you and walk away
-                    ? Don't know what they're doing and loosing, you're such a
-                    goode deal. <br />
-                    Except you're not. Just because you love doesn't mean you
-                    deserve to be love in return. It's like antibiotics, it's
-                    not automatic. <br />
-                    So stop with your ego stuff. You're one amongst the others. Nothing special here.
-                </li>
-                <li>
-                    <p class="facts-title">It's not good for you. Litterally speaking.</p>
-                    I will not enter in medical details, you can read the whole study <a href="https://www.pnas.org/content/108/15/6270">there</a>. <br>
-                    Simply put, what you're experiencing has direct effects (negative ones) on your brain and health. A good reason not to get stuck there for too long dude. <br>
-                    Wanna stay healthy and clean right ? So move ! 
-                </li>
-            </ul>
+            </h3>
         </div>
     </section>
     <section class="row margin-bottom-lg">
         <div class="col-12">
-            <p class="margin-bottom-lg h2">
-                So ? What's next ?
-            </p>
+            <h3 class="margin-bottom-lg">
+                What's next ?
+            </h3>
             <div class="steps row">
                 <div class="col-sm-4">
-                    <p class="arrow h4">Have a beer on me !</p>
+                    <p class="arrow">Have a beer on me !</p>
                     <img
                         src="site/themes/default/assets/img/beer.jpeg"
                         alt=""
@@ -177,7 +93,7 @@ image: beer.jpeg
                     </p>
                 </div>
                 <div class="col-sm-4">
-                    <p class="arrow h4">Stop questionning !</p>
+                    <p class="arrow">Stop questionning !</p>
                     <img
                         src="site/themes/default/assets/img/think.jpeg"
                         alt=""
@@ -200,7 +116,7 @@ image: beer.jpeg
                     </p>
                 </div>
                 <div class="col-sm-4">
-                    <p class="arrow h4">Move on !</p>
+                    <p class="arrow">Move on !</p>
                     <img
                         src="site/themes/default/assets/img/move.jpeg"
                         alt=""
@@ -226,4 +142,4 @@ image: beer.jpeg
             </div>
         </div>
     </section>
-</div>
+</div>";}
