@@ -27,5 +27,9 @@
     <?php Event::dispatch('onThemeHeader') ?>
   </head>
   <body>
+
+    <!-- Because humor helps through hard times -->
+    <!-- To the woman I love <3 -->
+      
   <?php Themes::view('partials/navigation')->display() ?>
   <main role="main" class="container content">
