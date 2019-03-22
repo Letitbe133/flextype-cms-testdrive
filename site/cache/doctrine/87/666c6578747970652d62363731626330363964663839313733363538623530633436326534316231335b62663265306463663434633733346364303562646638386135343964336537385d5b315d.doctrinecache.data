@@ -1,11 +1,5 @@
----
-title: "You've just been friendzoned !"
-template: wtf
-fieldset: wtf
-date: "December 26 2018 10:26:04"
-image: beer.jpeg
----
-
+1553874238
+a:9:{s:5:"title";s:30:"You've just been friendzoned !";s:8:"template";s:3:"wtf";s:8:"fieldset";s:3:"wtf";s:4:"date";s:25:"December 26 2018 10:26:04";s:5:"image";s:9:"beer.jpeg";s:3:"url";s:29:"http://localhost/flextype/wtf";s:4:"slug";s:3:"wtf";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:11097:"
 <div class="container">
     <div class="center-align margin-top-lg margin-bottom-lg">
         <p
@@ -226,4 +220,4 @@ image: beer.jpeg
             </div>
         </div>
     </section>
-</div>
+</div>";}

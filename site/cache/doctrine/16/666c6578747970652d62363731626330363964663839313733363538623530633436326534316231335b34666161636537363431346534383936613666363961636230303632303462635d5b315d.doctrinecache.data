@@ -1,11 +1,5 @@
----
-title: "You've just been friendzoned !"
-template: wtf
-fieldset: wtf
-date: "December 26 2018 10:26:04"
-image: beer.jpeg
----
-
+1553874181
+a:9:{s:5:"title";s:30:"You've just been friendzoned !";s:8:"template";s:3:"wtf";s:8:"fieldset";s:3:"wtf";s:4:"date";s:25:"December 26 2018 10:26:04";s:5:"image";s:9:"beer.jpeg";s:3:"url";s:29:"http://localhost/flextype/wtf";s:4:"slug";s:3:"wtf";s:8:"base_url";s:39:"http://localhost/flextype/site/entries/";s:7:"content";s:10972:"
 <div class="container">
     <div class="center-align margin-top-lg margin-bottom-lg">
         <p
@@ -104,21 +98,21 @@ image: beer.jpeg
                     >
                     in 2003 for all of us to use (or not).
                 </li>
-                <li class="margin-bottom-sm">
+                <li>
                     <p class="facts-title">Is friendzone permanent ?</p>
                     I'm afraid yes dude. Let's be honest there : do not expect
                     any turning back. <br />
                     Don't wanna be the pathetic asshole filled with anger and
                     frustration, right ?
                 </li>
-                <li class="margin-bottom-sm">
+                <li>
                     <p class="facts-title">Are you a victim ?</p>
                     Well surely enough not. Your ending here is your fault !
                     Like Chandler you misread the signs. <br />
                     You're not being rejected dude, you're just not the right
                     fit. So stop whining. NOW !
                 </li>
-                <li class="margin-bottom-sm">
+                <li>
                     <p class="facts-title">What about hope ? <br /></p>
                     FORGET IT ! Hope is your best ennemy. Really think that
                     playing the best-friend-always-ther-to-help-and-to-care will
@@ -128,7 +122,7 @@ image: beer.jpeg
                     The sooner you swallow the pill, the sooner you are
                     relieved, listen to the doctor.
                 </li>
-                <li class="margin-bottom-sm">
+                <li>
                     <p class="facts-title">Frustration... This one I love !</p>
                     Well of course you're frustrated ! How can the one you love
                     (or think you love) can close the door on you and walk away
@@ -139,7 +133,7 @@ image: beer.jpeg
                     not automatic. <br />
                     So stop with your ego stuff. You're one amongst the others. Nothing special here.
                 </li>
-                <li class="margin-bottom-sm">
+                <li>
                     <p class="facts-title">It's not good for you. Litterally speaking.</p>
                     I will not enter in medical details, you can read the whole study <a href="https://www.pnas.org/content/108/15/6270">there</a>. <br>
                     Simply put, what you're experiencing has direct effects (negative ones) on your brain and health. A good reason not to get stuck there for too long dude. <br>
@@ -226,4 +220,4 @@ image: beer.jpeg
             </div>
         </div>
     </section>
-</div>
+</div>";}
